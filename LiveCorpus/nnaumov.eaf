@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-20T20:48:30+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/ivan_/Desktop/Алёнка/Линда/Nnaumov.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./Nnaumov.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:f09ce06f-51ed-401b-b4f2-53483566a6ab</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">40</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="4050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="4050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="8740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="8740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="9912"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="10850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="12410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="12411"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="15140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="15511"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="22820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="25260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="45180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="45180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="48760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="48890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="49705"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="49710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="50625"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="50630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="50950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="51430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="54890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="55770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="58780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="59420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="62890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="63770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="65620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="66470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="83780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="83800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="85170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="85170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="86730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="86740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="92480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="92660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="93780"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Alena" LINGUISTIC_TYPE_REF="utterance"
+        PARTICIPANT="@nan1982m" TIER_ID="text@nan1982m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>да снимали в Турции / в / местечке / это видимо город называется Бéлек //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>Белек да / там турков не поймёшь / они... //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>слушай / мы больше / снимали мы мм... // сейчас кино снимается за / какие-то удивительно короткие сроки за месяц / то есть тридцать тридцать да / тридцать / ну это основной такой / всё основное мы снимали / массив основной за тридцать дней / то есть тридцать смен вот у меня было конкретно там в турции / потом ещё немножечко захватили москву / ну что-то добивали доснимали // но это удивительный процесс что / я / тоже сам не ожидал что за тридцать дней можно снять полнометражный фильм / но это правда профессиональными двумя тремя группами //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>да это было в октябре //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>да // и там я не очень-то загарал в связи с другими проектами в которых мне нельзя быть / загоревшым //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>да / да // кухня вся / постпродакшн занимает гораздо больше времени //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>думаю терпение // очень сложно / ты понимаешь // смена киношная длится двенадцать часов в девять утра ты встал / в девять вечера ты / закончил / вернее начал сниматься / закончил в девять вечера / то есть двенадцать часов  / если это комедия надо улыбаться / веселиться //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>если шутить #нрзб# шутить обязательно //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>про... да / прописано //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Alena" LINGUISTIC_TYPE_REF="gestures"
+        PARTICIPANT="@nan1982m" TIER_ID="gestures@nan1982m"/>
+    <TIER ANNOTATOR="Alena" LINGUISTIC_TYPE_REF="gesture_meaning"
+        PARENT_REF="gestures@nan1982m" PARTICIPANT="@nan1982m" TIER_ID="gestMeaning@nan1982m"/>
+    <TIER ANNOTATOR="Alena" LINGUISTIC_TYPE_REF="utterance"
+        PARTICIPANT="@ps1986m" TIER_ID="text@ps1986m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>ам / такой вопрос в преддверии выхода фильма / снимали в Турции? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>Белек / или Белек / или Белек или...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>скажи больше отдыхали / снимали? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>сколько сколько за... // месяц ты был на съёмке? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>ну по тебе не скажешь что загар / плотнечком лёг / либо уже отмылся? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>а! это было в октябре?! //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>то есть всё-таки...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>то есть больше / времени ушло всё-таки на / монтаж / чем на съёмку // я верно понимаю? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>что самое сложное в съёмках фильма? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>а шутить надо если это комедия? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>обязательно // особенно тебе как квнщику / мне кажется это просто / рекомендовано как / знаешь как доктором прописано //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Alena" LINGUISTIC_TYPE_REF="gestures"
+        PARTICIPANT="@ps1986m" TIER_ID="gestures@ps1986m"/>
+    <TIER ANNOTATOR="Alena" LINGUISTIC_TYPE_REF="gesture_meaning"
+        PARENT_REF="gestures@ps1986m" PARTICIPANT="@ps1986m" TIER_ID="gestMeaning@ps1986m"/>
+    <TIER ANNOTATOR="Alena" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="words" PARENT_REF="text@nan1982m"
+        PARTICIPANT="@nan1982m" TIER_ID="transl@nan1982m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>yes it was filmed in Turkey / in / a place / this is probably a city called Belek //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>Belek yes / hard to understand the turks / they ... //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>listen / we shot more / we shot mm... / / now the movie is being shot for / some surprisingly short time in a month / so thirty thirty yes / thirty / well this is the main one / we shot all the main parts / the major part was shot in thirty days / so I had  thirty shifts specifically there in Turkey / then we filmed in Moscow a little more / well we added something // but this is an amazing process / I / also did not expect that a full-length film could be made in thirty days / but with two or three professional groups //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>but it was in october //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>yes // and I didn't really sunbathe there due to other projects in which I can't be / tanned //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>yes / yes / / the whole kitchen / postproduction takes much longer //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>i think patience / / it's very difficult / you know / / the film shift lasts twelve hours at nine in the morning you get up / at nine in the evening you / finish / or rather start filming / finish at nine in the evening / so twelve hours / if this is a comedy you need to smile / have fun //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>if you are joking -- you must joke //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>ord...yes / ordered //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Alena" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="words" PARENT_REF="text@ps1986m"
+        PARTICIPANT="@ps1986m" TIER_ID="transl@ps1986m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>uhm / such a question on the eve of the release of the film / was it filmed in Turkey? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>Belek / or Belek / or Belek or...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>tell me did you rest / film more? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>how long ... // have you been on the set for a month? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>well I can't say that you have a tan / or has it already been washed off? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>ah! it was in october?! //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>so after all...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>so more / time was still spent on / editing / than on shooting // am I right? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>what is the most difficult thing about shooting a movie? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>is it necessary to joke if this is a comedy? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>it is mandatory / / especially for you as a kvn player / it seems to me that it is just / recommended as / you know what the doctor ordered //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        CONTROLLED_VOCABULARY_REF="Gesture phases"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_e340808b-afc7-45b6-95a4-1a4aa5d56866">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_88e13d42-aa4c-4f10-afbc-8e84bc28c6b3">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_43996382-5639-4b52-a0e0-baff11905af7">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_83b59c85-e419-488f-af3d-8b6bb7d42238">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6338b6ad-6108-4cde-bae3-dd614d58db60">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_563765c9-1761-42d9-b64a-4bd7d11acd7c">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f113484f-f2f0-46d5-a523-7e8fd9d5f982">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1a07d74d-45b2-4a35-9389-71ca0254a91a">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_89f1148f-f60f-40b3-b7af-fbda84b9274e">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_2977a522-15e0-4040-913d-52872b649629">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6560c493-363e-4d4e-9df9-af2963ec76b6">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_7026b8de-a706-48a5-bb51-ade1097eacf6">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e2240646-f8f0-4de6-91c0-75485bf3f1a8">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_ab0f9cc6-1e28-4e3d-93b2-fec0f0e812cf">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_cba5517d-fec3-4f09-a6ac-a8b3d5f1d1de">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_370c8028-6948-48d7-8025-6b9b44717b67">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_097baa99-db3b-4fa1-adfc-0295710f3138">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
