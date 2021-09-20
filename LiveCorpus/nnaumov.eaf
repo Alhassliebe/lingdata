@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-20T20:48:30+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-20T23:25:37+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -191,55 +191,55 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
                 TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
-                <ANNOTATION_VALUE>yes it was filmed in Turkey / in / a place / this is probably a city called Belek //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Yes, it was filmed in Turkey in a place, this is probably a city, called Belek.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
                 TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
-                <ANNOTATION_VALUE>Belek yes / hard to understand the turks / they ... //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Belek, yes. It's hard to understand the Turks. They ...</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
                 TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts14">
-                <ANNOTATION_VALUE>listen / we shot more / we shot mm... / / now the movie is being shot for / some surprisingly short time in a month / so thirty thirty yes / thirty / well this is the main one / we shot all the main parts / the major part was shot in thirty days / so I had  thirty shifts specifically there in Turkey / then we filmed in Moscow a little more / well we added something // but this is an amazing process / I / also did not expect that a full-length film could be made in thirty days / but with two or three professional groups //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Listen, we shot more, we shot mm... Now the movie is being shot for some surprisingly short time. In a month. So, thirty-thirty, yes, thirty. Well, this is the main one... we shot all the main parts... the major part was shot in thirty days. So, I had  thirty shifts specifically there, in Turkey then we filmed in Moscow a little more. Well, we added something. But this is an amazing process. I also did not expect that a full-length film could be made in thirty days... but with two or three professional groups.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
                 TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts19">
-                <ANNOTATION_VALUE>but it was in october //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>But it was in October.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
                 TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts25">
-                <ANNOTATION_VALUE>yes // and I didn't really sunbathe there due to other projects in which I can't be / tanned //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Yes. And I didn't really sunbathe there due to the other projects in which I can't be tanned.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
                 TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
-                <ANNOTATION_VALUE>yes / yes / / the whole kitchen / postproduction takes much longer //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Yes-yes/ The whole kitchen, postproduction take much longer.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
                 TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts33">
-                <ANNOTATION_VALUE>i think patience / / it's very difficult / you know / / the film shift lasts twelve hours at nine in the morning you get up / at nine in the evening you / finish / or rather start filming / finish at nine in the evening / so twelve hours / if this is a comedy you need to smile / have fun //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>I think, patience. It's very difficult, you know. The film shift lasts twelve hours: at nine in the morning you get up, at nine in the evening you finish. Or rather start filming and finish at nine in the evening. So, twelve hours. If this is a comedy, you need to smile... have fun.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
                 TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
-                <ANNOTATION_VALUE>if you are joking -- you must joke //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>If you are joking -- you must joke.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
                 TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts40">
-                <ANNOTATION_VALUE>ord...yes / ordered //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Ord...yes, ordered.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -249,67 +249,67 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
                 TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
-                <ANNOTATION_VALUE>uhm / such a question on the eve of the release of the film / was it filmed in Turkey? //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Uhm... Such a question on the eve of the release of the film: was it shot in Turkey?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
                 TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
-                <ANNOTATION_VALUE>Belek / or Belek / or Belek or...</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Belek, or Belek, or Belek or...</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
                 TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
-                <ANNOTATION_VALUE>tell me did you rest / film more? //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Tell me, did you rest or film more?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
                 TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts13">
-                <ANNOTATION_VALUE>how long ... // have you been on the set for a month? //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>How long ... Have you been on the set for a month?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
                 TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts17">
-                <ANNOTATION_VALUE>well I can't say that you have a tan / or has it already been washed off? //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Well, I can't say that you have a tan or has it already been washed off?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
                 TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
-                <ANNOTATION_VALUE>ah! it was in october?! //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Ah! It was in October?! //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
                 TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts23">
-                <ANNOTATION_VALUE>so after all...</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>So, after all...</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
                 TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts27">
-                <ANNOTATION_VALUE>so more / time was still spent on / editing / than on shooting // am I right? //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>So, after all you spent more time on editing than on shooting. Am I right?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
                 TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
-                <ANNOTATION_VALUE>what is the most difficult thing about shooting a movie? //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>What is the most difficult thing about shooting a movie?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
                 TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts34">
-                <ANNOTATION_VALUE>is it necessary to joke if this is a comedy? //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Is it necessary to joke if this is a comedy?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
                 TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts39">
-                <ANNOTATION_VALUE>it is mandatory / / especially for you as a kvn player / it seems to me that it is just / recommended as / you know what the doctor ordered //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>It is mandatory/ Especially for you as a kvn player. It seems to me that it is just recommended as...you know, what the doctor ordered.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
